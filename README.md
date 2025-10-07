@@ -1,10 +1,10 @@
-# 📊 Expensync — Personal Finance Tracker
+# 📊 Expense-Tracker — Personal Finance Tracker
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Built With](https://img.shields.io/badge/Built%20with-MERN%20Stack-blue)
 
- #### Expensync is a full-stack personal finance tracker designed to help users manage their income, expenses, and budgets in a simple yet powerful way. The platform provides a real-time overview of financial health through dashboards, interactive charts, and category-wise transaction tracking. Users can easily add, edit, and delete transactions, set budget goals, and analyze spending patterns, all from a single intuitive interface.
+ #### Expense-Tracker is a full-stack personal finance tracker designed to help users manage their income, expenses, and budgets in a simple yet powerful way. The platform provides a real-time overview of financial health through dashboards, interactive charts, and category-wise transaction tracking. Users can easily add, edit, and delete transactions, set budget goals, and analyze spending patterns, all from a single intuitive interface.
 ---
 
 ## 🚀 Features
@@ -43,8 +43,8 @@
 ### 📁 Clone Repository
 
 ```bash
-git clone https://github.com/your-username/expensync.git
-cd expensync
+git clone https://github.com/your-username/expense-tracker.git
+cd expense-tracker
 ```
 
 ---
@@ -84,27 +84,6 @@ Open in browser: [http://localhost:3000](http://localhost:3000)
 
 ---
 
-## 📊 Live Demo
-
-Check out the live version:  
-👉 [https://expensync.com](https://expensyncj17.vercel.app/)
-
----
-
-## 📸 Screenshots
-
-### 🖥️ Dashboard Preview
-
-![Expensync Full Demo](./public/demo.png)
-
-### 🌞 Light Mode | 🌙 Dark Mode
-
-| Light Mode                            | Dark Mode                             |
-| ------------------------------------ | ------------------------------------- |
-| ![Light](./public/light.png)         | ![Dark](./public/dark.png)           |
-
-
----
 
 ## 📚 Usage Instructions
 
@@ -140,17 +119,9 @@ Check out the live version:
 
 ---
 
-## 👨‍💻 Author
-
-**Jitesh Bhakat**  
-GitHub: [@Jitesh8260](https://github.com/Jitesh8260)  
-LinkedIn: [Jitesh Kumar](https://www.linkedin.com/in/jitesh-kumar-2521b7249/)
-
----
-
 ## 🙏 Thank You
 
-Thank you for checking out **Expensync**!  
+Thank you for checking out **Expense-Tracker**!  
 Hope it helps you manage money better and plan smarter 💸
 
 If you found this useful, please ⭐ the repo and share it!
