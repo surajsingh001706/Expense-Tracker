@@ -125,6 +125,7 @@ Thank you for checking out **Expense-Tracker**!
 Hope it helps you manage money better and plan smarter 💸
 
 If you found this useful, please ⭐ the repo and share it!
+If you feel any queries contact at surajsingh001706@gmail.com
 
 > _"Budgeting isn't about limiting yourself — it's about making room for the things that matter most."_
 
